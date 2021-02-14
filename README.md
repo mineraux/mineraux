@@ -1,15 +1,22 @@
+<!-- TODO: CODERRANKS WIGET -->
+
 # Hi, I'm Robin 👋
 I build web things and some little video games on my free time. <br/> I'm passionated about the link between web development and UX design, clean and usefull (and usable 😬) services.
 
 Love work from home sweet home.
 
-Tow links to get in touch 👉 👈 :
+Two links to get in touch 👉 👈 :
 - <a href="mailto:robin.minervini@gmail.com">robin.minervini@gmail.com</a>
 - https://twitter.com/MinerviniRobin
 
 # Some projects
 
 **Harder Faster Loser**
+
+<p style="display:flex">
+  <img style="max-width:325px;margin-right:15px" src="https://robinminervini.fr/assets/images/hfl/mockup_mobile_hfl_homescreen.png">
+  <img style="max-width:325px" src="https://robinminervini.fr/assets/images/hfl/mockup_mobile_hfl_traffic-game.png">
+<p>
 
 A student game I made in 2019 @Gobelins. We created a game about burn-out. The game gets more and more difficult through the time and you can’t win at the end. We tried to create a feeling of stress so the user would feel like a real burn-out. Due to time restriction, we focused our work on the mobile version and make it playable offline (PWA)
 
