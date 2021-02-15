@@ -70,4 +70,4 @@ ___
 
 That's all for my personal or students projects. The last year, I passed my time working on private projects that I can't show here for legal reasons.
 
-You can <a href="mailto:robin.minervini@gmail.com">send me an email</a> or <a href="https://twitter.com/MinerviniRobin">DM me on Twitter</a> if you want more informations about that (with some legal limitations, face a judge is not in my projects).
+You can <a href="mailto:robin.minervini@gmail.com">send me an email at robin.minervini@gmail.com</a> or <a href="https://twitter.com/MinerviniRobin">DM me on Twitter</a> if you want more informations about that (with some legal limitations, face a judge is not in my projects).
