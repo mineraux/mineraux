@@ -1,13 +1,16 @@
-<!-- TODO: CODERRANKS WIGET -->
-
 # Hi, I'm Robin 👋
 I build web things and some little video games on my free time. <br/> I'm passionated about the link between web development and UX design, clean and usefull (and usable 😬) services.
 
 Love work from home sweet home.
 
-Two links to get in touch 👉 👈 :
+Three links to get in touch 👉 👈 :
 - <a href="mailto:robin.minervini@gmail.com">robin.minervini@gmail.com</a>
-- https://twitter.com/MinerviniRobin
+- <a href="https://twitter.com/MinerviniRobin">My Twitter</a>
+- <a href="https://www.linkedin.com/in/robin-minervini-a4551611a/">My Linkedin</a>
+
+<a href="https://github.com/Mineraux/repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mineraux&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
 
 # Some projects
 
@@ -18,7 +21,14 @@ A WIP project to use more and more **React, Apollo GraphQL and Jest**. Maybe, al
 <a href="https://github.com/mineraux/mineraux-fitness-react">Go to the repo</a>
 ___
 
-**Rebelinna**
+**Mineraux CMS**
+
+A WIP project to use **React, Apollo GraphQL**.
+
+<a href="https://github.com/mineraux/mineraux-cms">Go to the repo</a>
+___
+
+**Rebellina**
 
 <p>
   <img width="49%" src="https://robinminervini.fr/assets/images/rebellina/level-chapter1-the_magic_forest.png">
@@ -61,7 +71,3 @@ ___
 That's all for my personal or students projects. The last year, I passed my time working on private projects that I can't show here for legal reasons.
 
 You can send me an email or DM me on my Twitter if you want more informations about that (with some legal limitations, face a judge is not in my projects).
-
-<a href="https://github.com/Mineraux/repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mineraux&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
