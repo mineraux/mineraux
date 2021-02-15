@@ -20,8 +20,10 @@ ___
 
 **Rebelinna**
 
-<img width="49%" src="https://robinminervini.fr/assets/images/rebellina/level-chapter1-the_magic_forest.png">
-<img width="49%" src="https://robinminervini.fr/assets/images/rebellina/end-chapter1-the_magic_forest.png">
+<p>
+  <img width="49%" src="https://robinminervini.fr/assets/images/rebellina/level-chapter1-the_magic_forest.png">
+  <img width="49%" src="https://robinminervini.fr/assets/images/rebellina/end-chapter1-the_magic_forest.png">
+</p>
 
 A student plateformer video game I made in 2020 @Gobelins. You play a princess in a silent kingdom (_like really, no sound at all_). Let's plug your headphones, and follow the music to reach the end of each level.
 
