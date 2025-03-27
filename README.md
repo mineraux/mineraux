@@ -5,7 +5,7 @@ Love work from home sweet home.
 
 Three links to get in touch 👉 👈 :
 - <a href="mailto:robin.minervini@gmail.com">robin.minervini@gmail.com</a>
-- <a href="https://twitter.com/MinerviniRobin">My Twitter</a>
+- <a href="https://twitter.com/robinminervini">My Twitter</a>
 - <a href="https://www.linkedin.com/in/robin-minervini-a4551611a/">My Linkedin</a>
 
 <a href="https://github.com/Mineraux/repositories">
