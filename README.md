@@ -1,73 +1,44 @@
-# Hi, I'm Robin 👋
-I build web things and some little video games on my free time. <br/> I'm passionated about the link between web development and UX design, clean and usefull (and usable 😬) services.
+### Hi, I'm Robin
 
-Love work from home sweet home.
+I'm a **Senior Product Engineer** based in Paris, France. I care about the overlap between **solid engineering** and **actually usable UX**, especially when the product touches money or complex data.
 
-Three links to get in touch 👉 👈 :
-- <a href="mailto:robin.minervini@gmail.com">robin.minervini@gmail.com</a>
-- <a href="https://twitter.com/robinminervini">My Twitter</a>
-- <a href="https://www.linkedin.com/in/robin-minervini-a4551611a/">My Linkedin</a>
+**Right now**
 
-<a href="https://github.com/Mineraux/repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mineraux&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
+- **[Order1](https://www.order1.ai/)** — Senior Frontend & UX Lead (since 2023). I own the frontend on a B2B SaaS product: React, TypeScript, big data-heavy UIs, and I ship features end to end (including things like a custom email editor built with **Unlayer**).
+- **[Xylance](https://www.xylance.fi/)** — Co-founder & lead engineer (since Jan 2026). A DeFi product on **Enzyme** / **Uniswap V3**: automated vault, full withdrawal automation, real-time dashboards. Stack includes **Next.js**, **Viem**, **Wagmi**, **Supabase**, **Vercel**. Small team, so we lean hard on **AI-assisted dev** (Cursor, Claude) and a **BMAD**-style workflow to stay fast without cutting corners.
 
-# Some projects
+**Background**
 
-**Mineraux fitness**
+- Master's from **Gobelins** (interactive design & lead tech), so I don't treat UI as an afterthought.
+- Earlier: design systems (**Zefir**), co–tech lead on a Vue stack (**FashionData**), freelance for the French public sector (**code.gouv.fr**).
 
-A WIP project to use more and more **React, Apollo GraphQL and Jest**. Maybe, also a way to learn **Storybook** and **Tailwind css**.
+**Things I like working with**
 
-<a href="https://github.com/mineraux/mineraux-fitness-react">Go to the repo</a>
-___
+React · Next.js · TypeScript · Tailwind · Design systems · Web3 (Viem, Wagmi) · Python when the backend needs a push · Supabase · Vercel · AWS/Cloud Watch 
 
-**Mineraux CMS**
+---
 
-A WIP project to use **React, Apollo GraphQL**.
+### Get in touch
 
-<a href="https://github.com/mineraux/mineraux-cms">Go to the repo</a>
-___
+- **Email:** [robin.minervini@gmail.com](mailto:robin.minervini@gmail.com)
+- **LinkedIn:** [linkedin.com/robin-minervini](https://www.linkedin.com/in/robin-minervini-a4551611a/)
 
-**Rebellina**
+---
 
-<p>
-  <img width="49%" src="https://robinminervini.fr/assets/images/rebellina/level-chapter1-the_magic_forest.png">
-  <img width="49%" src="https://robinminervini.fr/assets/images/rebellina/end-chapter1-the_magic_forest.png">
-</p>
+### Selected student projects (Gobelins)
 
-A student plateformer video game I made in 2020 @Gobelins. You play a princess in a silent kingdom (_like really, no sound at all_). Let's plug your headphones, and follow the music to reach the end of each level.
+- **Rebellina** (2020) — Platformer in a silent kingdom; you follow the music through the levels.
+- **Harder Faster Loser** (2019) — Game about burnout: it gets harder over time and you can’t really win. Built as a PWA, mobile-first.
+- **L’envers du décor** (2018) — Experiment on street benches and how public space relates to homelessness.
 
-<a href="https://robinminervini.fr/assets/rebellina/rebellina_dossier_technique.pdf">Read all our process for this project</a> (in french)
+---
 
-<a href="https://github.com/Liinkiing/rythmformer">Go to the repo</a>
-___
+### Older personal repos
 
-**Harder Faster Loser**
-<p align="center">
-  <img height="667px" src="https://robinminervini.fr/assets/images/hfl/mockup_mobile_hfl_homescreen.png">
-  <img height="667px" src="https://robinminervini.fr/assets/images/hfl/mockup_mobile_hfl_traffic-game.png">
-</p>
+I used to tinker with **React + Apollo GraphQL** side projects (`mineraux-fitness`, `mineraux-cms`). They're stale now, my recent energy goes into **Xylance** and **Order1** (mostly private / not public on this profile).
 
-A student game I made in 2019 @Gobelins. We created a game about burn-out. The game gets more and more difficult through the time and you can’t win at the end. We tried to create a feeling of stress so the user would feel like a real burn-out. Due to time restriction, we focused our work on the mobile version and make it playable offline (PWA)
+---
 
-<a href="https://github.com/Liinkiing/harder-faster-loser">Go to the repo</a>
+### Note on private work
 
-<a href="https://harder-faster-loser.netlify.app/">Go to the game</a>
-___
-
-**L'envers du decor**
-
-<p align="center">
-  <img src="https://robinminervini.fr/assets/images/envers_du_decor/envers_du_decor.png">
-<p>
-
-A student experiment I made in 2018 @Gobelins. It's about street bench and how they are use again homeless people.
-
-<a href="https://robinminervini.fr/assets/images/envers_du_decor/envers_du_decor_dossier.pdf">Read all our process for this project</a> (in french)
-
-<a href="https://github.com/mineraux/make-bench-great-again">Go to the repo</a>
-___
-
-That's all for my personal or students projects. The last year, I passed my time working on private projects that I can't show here for legal reasons.
-
-You can <a href="mailto:robin.minervini@gmail.com">send me an email at robin.minervini@gmail.com</a> or <a href="https://twitter.com/MinerviniRobin">DM me on Twitter</a> if you want more informations about that (with some legal limitations, face a judge is not in my projects).
+A lot of what I've shipped professionally lives in private repos or client infrastructure. If you want to talk about that within what's reasonable to share, **email is best**.
