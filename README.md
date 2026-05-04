@@ -4,8 +4,8 @@ I'm a **Senior Product Engineer** based in Paris, France. I care about the overl
 
 **Right now**
 
-- **[Order1](https://www.order1.ai/)** — Senior Frontend & UX Lead (since 2023). I own the frontend on a B2B SaaS product: React, TypeScript, big data-heavy UIs, and I ship features end to end (including things like a custom email editor built with **Unlayer**).
-- **[Xylance](https://www.xylance.fi/)** — Co-founder & lead engineer (since Jan 2026). A DeFi product on **Enzyme** / **Uniswap V3**: automated vault, full withdrawal automation, real-time dashboards. Stack includes **Next.js**, **Viem**, **Wagmi**, **Supabase**, **Vercel**. Small team, so we lean hard on **AI-assisted dev** (Cursor, Claude) and a **BMAD**-style workflow to stay fast without cutting corners.
+- **[Order1](https://www.order1.ai/)** - Senior Frontend & UX Lead (since 2023). I own the frontend on a B2B SaaS product: React, TypeScript, big data-heavy UIs, and I ship features end to end (including things like a custom email editor built with **Unlayer**).
+- **[Xylance](https://www.xylance.fi/)** - Co-founder & lead engineer (since Jan 2026). A DeFi product on **Enzyme** / **Uniswap V3**: automated vault, full withdrawal automation, real-time dashboards. Stack includes **Next.js**, **Viem**, **Wagmi**, **Supabase**, **Vercel**. Small team, so we lean hard on **AI-assisted dev** (Cursor, Claude) and a **BMAD**-style workflow to stay fast without cutting corners.
 
 **Background**
 
