@@ -27,9 +27,9 @@ React · Next.js · TypeScript · Tailwind · Design systems · Web3 (Viem, Wagm
 
 ### Selected student projects (Gobelins)
 
-- **Rebellina** (2020) — Platformer in a silent kingdom; you follow the music through the levels.
-- **Harder Faster Loser** (2019) — Game about burnout: it gets harder over time and you can’t really win. Built as a PWA, mobile-first.
-- **L’envers du décor** (2018) — Experiment on street benches and how public space relates to homelessness.
+- **Rebellina** (2020) - Platformer in a silent kingdom; you follow the music through the levels.
+- **Harder Faster Loser** (2019) - Game about burnout: it gets harder over time and you can’t really win. Built as a PWA, mobile-first.
+- **L’envers du décor** (2018) - Experiment on street benches and how public space relates to homelessness.
 
 ---
 
